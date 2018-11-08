@@ -1,0 +1,65 @@
+
+#color{
+    width: 120px !important;
+    float: right;
+
+}
+#form-registrar-modificarProvedor input[type = "text"],
+select{
+    width: 215px !important;
+    display: inline-block;
+    margin-right: 10px; 
+}
+#inputBuscar{
+    display: inline-block; 
+    width: 110px !important;
+}
+
+#btn-buscarProovedor{
+    display: inline-block;
+    height: 41px;
+}
+#pills-tab{
+    margin-left: 20%;
+}
+
+#pills-tab li{
+    padding-left: 2%;
+    padding-right: 2%;
+    border-left: 0.5px solid #eee;
+    text-align: center;
+}
+.tab-crud{
+    margin-left: 20px !important;
+}
+
+.tab-crud a{
+    border: 0.1px grey !important;
+    border-radius: 2px !important;
+
+        
+}
+#mensaje-registrar-proovedor{
+    margin-top: 0px;
+            font-family: inherit;
+            line-height: 0;
+            color: inherit;
+            font-size:  12px;
+            padding:13px !important;
+}
+#contenedor-logo {
+    z-index: 700;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+.dropdown-menu > .dropdown-item:hover {
+    color: #212529;
+    cursor: pointer;
+}
